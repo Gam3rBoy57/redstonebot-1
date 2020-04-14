@@ -1,0 +1,14 @@
+{
+  "name": "redstonebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start-dev": "nodemon main.js"
+  },
+  "author": "redstonekasi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
